@@ -11,4 +11,4 @@ now u just have to send this script to target computer and wait  for target to r
 
 NOTE: make sure that target will run this script with admin prevelleges.
 
-Sorry Guys My windows Pc dont have RDP so i cant show you POC of this.
+Sorry Guys My windows Pc dont have RDP so i cant show you POC of this Project.
