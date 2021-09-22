@@ -10,3 +10,5 @@ and boom you are ready to go.
 now u just have to send this script to target computer and wait  for target to run this.
 
 NOTE: make sure that target will run this script with admin prevelleges.
+
+Sorry Guys My windows Pc dont have RDP so i cant show you POC of this.
